@@ -5,14 +5,14 @@ campaign-logo
 
 A campaign is an outbound marketing project that you want to plan, manage, and track within Salesforce. It can be a direct mail program, seminar, print advertisement, email, or other type of marketing initiative.
 
-# Accounts
+- Bulleted Accounts
 Accounts are your organization’s customers, competitors, and partners. Each account stores information such as name, address, and phone numbers. For each account, you can store related information such as opportunities, activities, cases, partners, contracts, and notes.
 
 
-Contacts
+### Contacts
 Contacts are all of the individuals associated with your business accounts that you need to track in Salesforce. You can store various information for a contact, such as phone numbers, addresses, titles, and roles in a deal.
 
-Opportunities
+1. Opportunities
 Opportunities are the sales and pending deals that you want to track. By adding opportunities, you are also building your “pipeline,” which will contribute to your forecast. You can also link opportunities to campaigns to help measure the ROI of your marketing programs.
 
 Leads
