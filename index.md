@@ -1,5 +1,3 @@
-## Salesforce Terminology
-
 ### Campaign
 
 A campaign is an outbound marketing project that you want to plan, manage, and track within Salesforce. It can be a direct mail program, seminar, print advertisement, email, or other type of marketing initiative.
